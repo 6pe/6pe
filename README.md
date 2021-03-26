@@ -1,2 +1,2 @@
 Hi,
-This is my GitHub profile!
+this is my GitHub profile!
