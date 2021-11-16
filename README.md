@@ -1,2 +1,1 @@
-Hi,
-this is my GitHub profile!
+HIRE Me!
